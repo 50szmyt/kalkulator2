@@ -1,0 +1,44 @@
+button
+{
+    font-family: 'Alkatra', cursive;
+    border :solid;
+    border-color: #dbf227;
+    margin: 2px;
+    background-color:#9fc131 ;
+    border-radius: 2%;
+    font-size: large;
+    width: 55px;
+    height: 55px;
+}
+
+.kalkulator
+{   
+    max-width:200px ;
+    background-color: #042940;
+    padding: 10px;
+    margin : 10px;
+}
+
+.buttons
+{
+display: flex;
+justify-content: space-around;
+}
+.dzialania
+{
+    font-family: 'Alkatra', cursive;
+    color: #9fc131;
+    display: flex;
+    text-align: right;
+    flex-direction: column;
+    
+}
+.wynik
+{
+    font-size: xx-large;
+}
+.dzialania2
+{
+display: flex;
+justify-content: flex-end;
+}
